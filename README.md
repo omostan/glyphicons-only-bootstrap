@@ -20,6 +20,8 @@ bower install glyphicons-only-bootstrap
 
 ```
 <link rel='stylesheet' href='bower_components/glyphicons-only-bootstrap/css/bootstrap.min.css' />
+or
+<link rel='stylesheet' href='node_modules/glyphicons-only-bootstrap/css/bootstrap.min.css' />
 ```
 
 ## License
