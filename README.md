@@ -13,6 +13,10 @@ npm install glyphicons-only-bootstrap
 bower install glyphicons-only-bootstrap
 ```
 
+// add this to your style sheet your-default-stylesheet-name.scss
+@import '~glyphicons-only-bootstrap/css/bootstrap.min.css';
+```
+
 ## Implement to your HTML
 
 ```
